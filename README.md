@@ -1,56 +1,94 @@
-# 👋 Hi, I'm Foroogh
+```
+╔══════════════════════════════════════════════════════════════╗
+║  > LOADING USER PROFILE........................[OK]          ║
+║  > NAME: FOROOGH                                             ║
+║  > CLASS: FRONTEND ENGINEER          LVL: 10                 ║
+║  > STATUS: ONLINE                    XP: ████████░░ 87%      ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Frontend engineer with ~10 years of experience building web apps that actually get used.
+```
+ /\_/\
+( o.o )   > hello_world.exe
+ > ^ <    > press any key to continue_
+```
 
-I work at the intersection of **design, performance, and real product needs** — turning messy ideas into clean, scalable interfaces (and sometimes helping teams get there too).
+## ────────[ WHOAMI ]────────
 
----
+Frontend engineer with ~10 years of experience building web apps that actually get used. I live at the intersection of **design, performance, and real product needs** — turning messy ideas into clean, scalable interfaces (and sometimes helping teams get there too).
 
-## What I’ve been working on
+```
+[SYSTEM]: pet_detected.exe is currently sitting on the keyboard.
+[SYSTEM]: please wait...
+```
 
-Lately I’ve been focused on:
+## ────────[ NOW.LOADING ]────────
 
-* building React / Next.js apps with solid structure (not just quick hacks)
-* working closely with design to get things pixel-perfect without killing performance
-* leading small teams and bringing a bit of structure into fast-moving (and sometimes chaotic) environments
+```
+> CURRENT_PROCESSES.log
+```
 
----
+- `[PID 001]` building React / Next.js apps with solid structure (not just quick hacks)
+- `[PID 002]` working closely with design to get things pixel-perfect without killing performance
+- `[PID 003]` leading small teams and bringing a bit of structure into fast-moving (and sometimes chaotic) environments
+- `[PID 004]` negotiating with cat for keyboard access
 
-## Tech I use often
+## ────────[ TECH.STACK ]────────
 
-React • Next.js • TypeScript • Tailwind • Vue • Nuxt • SCSS
-Node.js • APIs • Docker
+```
+╭─ FRONTEND ───────────────────────────────────╮
+│  React  ▓▓▓▓▓▓▓▓▓▓   Next.js ▓▓▓▓▓▓▓▓▓▓     │
+│  TS     ▓▓▓▓▓▓▓▓▓░   Tailwind▓▓▓▓▓▓▓▓▓▓     │
+│  Vue    ▓▓▓▓▓▓▓▓░░   Nuxt    ▓▓▓▓▓▓▓▓░░     │
+│  SCSS   ▓▓▓▓▓▓▓▓▓▓                          │
+╰─────────────────────────────────────────────╯
 
-Recently getting more into **Python & FastAPI** to feel more comfortable on the backend side.
+╭─ BACKEND.ISH ────────────────────────────────╮
+│  Node.js • APIs • Docker                     │
+│  Python + FastAPI  [INSTALLING... 64%]       │
+╰─────────────────────────────────────────────╯
+```
 
----
+## ────────[ PHILOSOPHY.TXT ]────────
 
-## How I approach things
+```
+> cat philosophy.txt
+```
 
-I like breaking down complex features into something manageable and actually shippable.
+I like breaking down complex features into something manageable and actually shippable. The fun part isn't the clever trick — it's the boring code that still makes sense six months later.
 
 I care about:
 
-* code that stays maintainable after 6 months
-* good UX, not just “it works”
-* moving fast without creating a mess later
+```
+[✓] code that stays maintainable after 6 months
+[✓] good UX, not just "it works"
+[✓] moving fast without creating a mess later
+[✓] knowing when "good enough" is actually good enough
+```
 
-I use AI tools a lot in my workflow — mostly to speed things up — but I always take ownership of the final result.
+I use AI tools a lot in my workflow — mostly to speed things up — but I always own the final result. The machine helps me type faster; it doesn't ship code with my name on it.
 
----
+## ────────[ GITHUB.STATS ]────────
 
-## 📊 GitHub
+![stats](https://github-readme-stats.vercel.app/api?username=blacksheepIV&show_icons=true&hide_border=true&theme=synthwave)
 
-![stats](https://github-readme-stats.vercel.app/api?username=blacksheepIV\&show_icons=true\&hide_border=true)
+## ────────[ TRANSMIT ]────────
 
----
+```
+> establishing connection...
+```
 
-## 🌐 Find me here
+```
+LinkedIn ────► linkedin.com/in/foroogh-fallahfar
+Medium   ────► medium.com/@foroogh.fallah
+Portfolio────► forough.dev
+```
 
-* LinkedIn: https://linkedin.com/in/foroogh-fallahfar
-* Medium: https://medium.com/@foroogh.fallah
-* Portfolio: https://www.forough.dev/
-
----
-
-☕ built with coffee, curiosity, and a slightly chaotic cat
+```
+╔══════════════════════════════════════════════════════════════╗
+║  EOF — built with coffee, curiosity, and a slightly         ║
+║        chaotic cat who thinks the keyboard is a bed         ║
+║                                                              ║
+║  > PRESS [ESC] TO EXIT_                                      ║
+╚══════════════════════════════════════════════════════════════╝
+```
