@@ -36,7 +36,7 @@ Frontend engineer with ~10 years of experience building web apps that actually g
 ## ────────[ TECH.STACK ]────────
 
 ```
-╭─ FRONTEND ───────────────────────────────────╮
+╭─ FRONTEND ──────────────────────────────────╮
 │  React  ▓▓▓▓▓▓▓▓▓▓   Next.js ▓▓▓▓▓▓▓▓▓▓     │
 │  TS     ▓▓▓▓▓▓▓▓▓░   Tailwind▓▓▓▓▓▓▓▓▓▓     │
 │  Vue    ▓▓▓▓▓▓▓▓░░   Nuxt    ▓▓▓▓▓▓▓▓░░     │
@@ -46,7 +46,7 @@ Frontend engineer with ~10 years of experience building web apps that actually g
 ╭─ BACKEND.ISH ────────────────────────────────╮
 │  Node.js • APIs • Docker                     │
 │  Python + FastAPI  [INSTALLING... 64%]       │
-╰─────────────────────────────────────────────╯
+╰─────────────────────────────────────────────-╯
 ```
 
 ## ────────[ PHILOSOPHY.TXT ]────────
@@ -86,8 +86,8 @@ Portfolio────► forough.dev
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  EOF — built with coffee, curiosity, and a slightly         ║
-║        chaotic cat who thinks the keyboard is a bed         ║
+║  EOF — built with coffee, curiosity, and a slightly          ║
+║        chaotic cat who thinks the keyboard is a bed          ║
 ║                                                              ║
 ║  > PRESS [ESC] TO EXIT_                                      ║
 ╚══════════════════════════════════════════════════════════════╝
