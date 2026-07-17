@@ -1,94 +1,132 @@
+<div align="center">
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  > LOADING USER PROFILE........................[OK]          ║
-║  > NAME: FOROOGH                                             ║
-║  > CLASS: FRONTEND ENGINEER          LVL: 10                 ║
-║  > STATUS: ONLINE                    XP: ████████░░ 87%      ║
-╚══════════════════════════════════════════════════════════════╝
+░▒▓█ INSERT TAPE █▓▒░
 ```
 
 ```
- /\_/\
-( o.o )   > hello_world.exe
- > ^ <    > press any key to continue_
+ ▶ PLAY   ‖ PAUSE   ■ STOP   ⏺ REC          SP  0:00:00
+┌────────────────────────────────────────────────────────┐
+│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
+│                                                        │
+│              F O R O O G H   ( F O U R )               │
+│           frontend engineer · istanbul · 🖤            │
+│                                                        │
+│         « recorded live, sometime in the 80s »         │
+│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ TRACKING ░░▓▓▓▓▓▓▓▓▓▓▓▓│
+└────────────────────────────────────────────────────────┘
 ```
 
-## ────────[ WHOAMI ]────────
+![React](https://img.shields.io/badge/React-ff2e88?style=for-the-badge&logo=react&logoColor=0d0221)
+![Next.js](https://img.shields.io/badge/Next.js-b026ff?style=for-the-badge&logo=nextdotjs&logoColor=0d0221)
+![TypeScript](https://img.shields.io/badge/TypeScript-05d9e8?style=for-the-badge&logo=typescript&logoColor=0d0221)
+![Vue](https://img.shields.io/badge/Vue-ff2e88?style=for-the-badge&logo=vuedotjs&logoColor=0d0221)
+![Node.js](https://img.shields.io/badge/Node.js-b026ff?style=for-the-badge&logo=nodedotjs&logoColor=0d0221)
+![FastAPI](https://img.shields.io/badge/FastAPI-05d9e8?style=for-the-badge&logo=fastapi&logoColor=0d0221)
 
-Frontend engineer with ~10 years of experience building web apps that actually get used. I live at the intersection of **design, performance, and real product needs** — turning messy ideas into clean, scalable interfaces (and sometimes helping teams get there too).
+</div>
 
-```
-[SYSTEM]: pet_detected.exe is currently sitting on the keyboard.
-[SYSTEM]: please wait...
-```
+<br/>
 
-## ────────[ NOW.LOADING ]────────
-
-```
-> CURRENT_PROCESSES.log
-```
-
-- `[PID 001]` building React / Next.js apps with solid structure (not just quick hacks)
-- `[PID 002]` working closely with design to get things pixel-perfect without killing performance
-- `[PID 003]` leading small teams and bringing a bit of structure into fast-moving (and sometimes chaotic) environments
-- `[PID 004]` negotiating with cat for keyboard access
-
-## ────────[ TECH.STACK ]────────
+## 🕯️ SIDE A — THE HITS
 
 ```
-╭─ FRONTEND ──────────────────────────────────╮
-│  React  ▓▓▓▓▓▓▓▓▓▓   Next.js ▓▓▓▓▓▓▓▓▓▓     │
-│  TS     ▓▓▓▓▓▓▓▓▓░   Tailwind▓▓▓▓▓▓▓▓▓▓     │
-│  Vue    ▓▓▓▓▓▓▓▓░░   Nuxt    ▓▓▓▓▓▓▓▓░░     │
-│  SCSS   ▓▓▓▓▓▓▓▓▓▓                          │
-╰─────────────────────────────────────────────╯
-
-╭─ BACKEND.ISH ────────────────────────────────╮
-│  Node.js • APIs • Docker                     │
-│  Python + FastAPI  [INSTALLING... 64%]       │
-╰─────────────────────────────────────────────-╯
+      ___________________________
+     |  ____________  ________  |
+     | | ⊙        ⊙ ||  90 min| |     MIXTAPE Nº 4
+     | |  ╭──────╮  || DARKWAVE| |     "for whoever finds this"
+     | |__╰──◉◉──╯__||________| |
+     |     ________________     |     dubbed with love & a
+     |    | .............. |    |     slightly chewed pencil
+     |____|________________|____|
 ```
 
-## ────────[ PHILOSOPHY.TXT ]────────
+**TRACK 01 · WHOAMI (EXTENDED CLUB MIX)**
+Frontend engineer, ~10 years of building web apps that people actually use. I live where **design, performance, and real product needs** collide — turning beautifully chaotic ideas into interfaces that survive contact with production.
+
+**TRACK 02 · CURRENTLY IN HEAVY ROTATION**
+- 🎛️ React / Next.js apps with real architecture, not vibes-only structure
+- 🖤 pixel-perfect collaborations with design — without sacrificing performance to the void
+- 📼 leading small teams; bringing calm to fast-moving, slightly haunted codebases
+- 🐈‍⬛ ongoing contract negotiations with the studio cat re: keyboard territory
+
+**TRACK 03 · SLOW SONG (THE PHILOSOPHY ONE)**
+The clever trick gets the applause. The boring, readable code still makes sense six months later — that's the one I write for. I use AI tools heavily to move faster, but the name on the record is mine, so I own every note that ships.
+
+<br/>
+
+## 🌙 SIDE B — DEEP CUTS
 
 ```
-> cat philosophy.txt
+╔═ LINER NOTES ══════════════════════════════════════════╗
+║                                                        ║
+║  LEAD SYNTHS ······ React · Next.js · TypeScript       ║
+║  RHYTHM SECTION ··· Vue · Nuxt · Tailwind · SCSS       ║
+║  BASS & DRUMS ····· Node.js · APIs · Docker            ║
+║  GUEST FEATURE ···· Python + FastAPI                   ║
+║  PRODUCED AT ······ Neon Basement Studios, Istanbul    ║
+║  STUDIO ENGINEER ·· The Cat (uncredited, insists)      ║
+║                                                        ║
+║  ⚠ RECORDED IN THE DARK. PLAY LOUD. ⚠                  ║
+╚════════════════════════════════════════════════════════╝
 ```
 
-I like breaking down complex features into something manageable and actually shippable. The fun part isn't the clever trick — it's the boring code that still makes sense six months later.
-
-I care about:
+**things I refuse to compromise on:**
 
 ```
-[✓] code that stays maintainable after 6 months
-[✓] good UX, not just "it works"
-[✓] moving fast without creating a mess later
-[✓] knowing when "good enough" is actually good enough
+ ♪ code that's still legible after the hype fades
+ ♪ UX that feels good, not just "technically functional"
+ ♪ shipping fast without leaving a mess for future-me
+ ♪ knowing when "good enough" is the correct final answer
 ```
 
-I use AI tools a lot in my workflow — mostly to speed things up — but I always own the final result. The machine helps me type faster; it doesn't ship code with my name on it.
+<br/>
 
-## ────────[ GITHUB.STATS ]────────
+## 📼 CHART PERFORMANCE
 
-![stats](https://github-readme-stats.vercel.app/api?username=blacksheepIV&show_icons=true&hide_border=true&theme=synthwave)
+<div align="center">
 
-## ────────[ TRANSMIT ]────────
+<img src="https://github-readme-stats.vercel.app/api?username=blacksheepIV&show_icons=true&hide_border=true&theme=synthwave" alt="Foroogh's GitHub stats"/>
 
-```
-> establishing connection...
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksheepIV&layout=compact&hide_border=true&theme=synthwave" alt="Top languages"/>
 
-```
-LinkedIn ────► linkedin.com/in/foroogh-fallahfar
-Medium   ────► medium.com/@foroogh.fallah
-Portfolio────► forough.dev
-```
+</div>
+
+<br/>
+
+## ☎️ CALL NOW — OPERATORS ARE STANDING BY
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  EOF — built with coffee, curiosity, and a slightly          ║
-║        chaotic cat who thinks the keyboard is a bed          ║
-║                                                              ║
-║  > PRESS [ESC] TO EXIT_                                      ║
-╚══════════════════════════════════════════════════════════════╝
+  ┌─────────────────────────────────────────────┐
+  │   AS SEEN ON TV · NOT AVAILABLE IN STORES   │
+  └─────────────────────────────────────────────┘
 ```
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/📺_PORTFOLIO-forough.dev-ff2e88?style=for-the-badge)](https://www.forough.dev/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-b026ff?style=for-the-badge&logo=linkedin&logoColor=0d0221)](https://linkedin.com/in/foroogh-fallahfar)
+[![Medium](https://img.shields.io/badge/MEDIUM-05d9e8?style=for-the-badge&logo=medium&logoColor=0d0221)](https://medium.com/@foroogh.fallah)
+[![X](https://img.shields.io/badge/@TisIFour-ff2e88?style=for-the-badge&logo=x&logoColor=0d0221)](https://twitter.com/TisIFour)
+[![Coffee](https://img.shields.io/badge/☕_BUY_ME_A_COFFEE-b026ff?style=for-the-badge)](https://www.buymeacoffee.com/foroogh)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────┐
+│▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░│
+│                                                        │
+│    END OF TAPE — powered by black coffee, post-punk    │
+│    basslines, and a cat who believes warm keyboards    │
+│              are a form of architecture.               │
+│                                                        │
+│              ⏪ BE KIND. PLEASE REWIND. ⏪              │
+│▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░│
+└────────────────────────────────────────────────────────┘
+```
+
+</div>
