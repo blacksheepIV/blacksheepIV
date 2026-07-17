@@ -1,132 +1,93 @@
-<div align="center">
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```
-░▒▓█ INSERT TAPE █▓▒░
+> ACCESS GRANTED ▓
+> USER: Foroogh (Four)
+> ROLE: Frontend Engineer
+> LOC : Istanbul
+> SYS : ONLINE_
 ```
 
-```
- ▶ PLAY   ‖ PAUSE   ■ STOP   ⏺ REC          SP  0:00:00
-┌────────────────────────────────────────────────────────┐
-│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
-│                                                        │
-│              F O R O O G H   ( F O U R )               │
-│           frontend engineer · istanbul · 🖤            │
-│                                                        │
-│         « recorded live, sometime in the 80s »         │
-│▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ TRACKING ░░▓▓▓▓▓▓▓▓▓▓▓▓│
-└────────────────────────────────────────────────────────┘
-```
+**Frontend engineer, ~10 years of building web apps that people actually use.** I care about the point where design, performance, and real product needs meet — and about code that's still readable six months later.
 
-![React](https://img.shields.io/badge/React-ff2e88?style=for-the-badge&logo=react&logoColor=0d0221)
-![Next.js](https://img.shields.io/badge/Next.js-b026ff?style=for-the-badge&logo=nextdotjs&logoColor=0d0221)
-![TypeScript](https://img.shields.io/badge/TypeScript-05d9e8?style=for-the-badge&logo=typescript&logoColor=0d0221)
-![Vue](https://img.shields.io/badge/Vue-ff2e88?style=for-the-badge&logo=vuedotjs&logoColor=0d0221)
-![Node.js](https://img.shields.io/badge/Node.js-b026ff?style=for-the-badge&logo=nodedotjs&logoColor=0d0221)
-![FastAPI](https://img.shields.io/badge/FastAPI-05d9e8?style=for-the-badge&logo=fastapi&logoColor=0d0221)
+</td>
+<td width="45%" align="center">
 
-</div>
+<pre>
+00000000000000000001111111000000000000000000
+00000000000000111111111111111110000000000000
+00000000000111111111111111111111110000000000
+00000000011111111111111111111111111100000000
+00000001111111111111111111111111111111000000
+00000011111111111111111111111111111111100000
+00000011100000000000000000000000000011100000
+00000111100000000000000000000000000011110000
+00000111100000000000000000000000000011110000
+00000111111111111111111111111111111111110000
+00000111111111111111111111111111111111110000
+00000011111111111111111111111111111111100000
+00000001111111111111111111111111111111000000
+00000000111111001111111111111001111110000000
+00000000001111111000000000001111111000000000
+00000000000011111111111111111111100000000000
+00000000000000011111111111111100000000000000
+</pre>
 
-<br/>
+`hackerman.bin`
 
-## 🕯️ SIDE A — THE HITS
+</td>
+</tr>
+</table>
 
-```
-      ___________________________
-     |  ____________  ________  |
-     | | ⊙        ⊙ ||  90 min| |     MIXTAPE Nº 4
-     | |  ╭──────╮  || DARKWAVE| |     "for whoever finds this"
-     | |__╰──◉◉──╯__||________| |
-     |     ________________     |     dubbed with love & a
-     |    | .............. |    |     slightly chewed pencil
-     |____|________________|____|
-```
+## whoami
 
-**TRACK 01 · WHOAMI (EXTENDED CLUB MIX)**
-Frontend engineer, ~10 years of building web apps that people actually use. I live where **design, performance, and real product needs** collide — turning beautifully chaotic ideas into interfaces that survive contact with production.
+I build React / Next.js applications with proper architecture, work closely with designers to ship pixel-accurate UI without sacrificing performance, and lead small frontend teams in fast-moving environments.
 
-**TRACK 02 · CURRENTLY IN HEAVY ROTATION**
-- 🎛️ React / Next.js apps with real architecture, not vibes-only structure
-- 🖤 pixel-perfect collaborations with design — without sacrificing performance to the void
-- 📼 leading small teams; bringing calm to fast-moving, slightly haunted codebases
-- 🐈‍⬛ ongoing contract negotiations with the studio cat re: keyboard territory
+Currently:
 
-**TRACK 03 · SLOW SONG (THE PHILOSOPHY ONE)**
-The clever trick gets the applause. The boring, readable code still makes sense six months later — that's the one I write for. I use AI tools heavily to move faster, but the name on the record is mine, so I own every note that ships.
+- Building with **React, Next.js and TypeScript**
+- Deepening my backend skills with **Node.js** and **Python + FastAPI**
+- Studying for an MSc in Data Science
+- Sharing my keyboard with a cat who did not ask permission
 
-<br/>
-
-## 🌙 SIDE B — DEEP CUTS
+## stack
 
 ```
-╔═ LINER NOTES ══════════════════════════════════════════╗
-║                                                        ║
-║  LEAD SYNTHS ······ React · Next.js · TypeScript       ║
-║  RHYTHM SECTION ··· Vue · Nuxt · Tailwind · SCSS       ║
-║  BASS & DRUMS ····· Node.js · APIs · Docker            ║
-║  GUEST FEATURE ···· Python + FastAPI                   ║
-║  PRODUCED AT ······ Neon Basement Studios, Istanbul    ║
-║  STUDIO ENGINEER ·· The Cat (uncredited, insists)      ║
-║                                                        ║
-║  ⚠ RECORDED IN THE DARK. PLAY LOUD. ⚠                  ║
-╚════════════════════════════════════════════════════════╝
+Frontend   React · Next.js · Vue · Nuxt · TypeScript · Tailwind · SCSS
+Backend    Node.js · Python · FastAPI · REST APIs
+Tooling    Docker · Git · CI/CD · AI-assisted workflows
 ```
 
-**things I refuse to compromise on:**
+I use AI tools heavily to move faster — but I review, understand, and own everything that ships under my name.
 
-```
- ♪ code that's still legible after the hype fades
- ♪ UX that feels good, not just "technically functional"
- ♪ shipping fast without leaving a mess for future-me
- ♪ knowing when "good enough" is the correct final answer
-```
+## how i work
 
-<br/>
+- Break complex features into small, shippable pieces
+- Prefer boring, maintainable code over clever tricks
+- Good UX is part of the job, not a bonus
+- Know when "good enough" is actually good enough
 
-## 📼 CHART PERFORMANCE
+## stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=blacksheepIV&show_icons=true&hide_border=true&theme=synthwave" alt="Foroogh's GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksheepIV&layout=compact&hide_border=true&theme=synthwave" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=blacksheepIV&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksheepIV&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
 
 </div>
+
+## contact
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-forough.dev-3b82f6?style=for-the-badge)](https://www.forough.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/foroogh-fallahfar)
+[![Medium](https://img.shields.io/badge/Medium-0f172a?style=for-the-badge&logo=medium&logoColor=60a5fa)](https://medium.com/@foroogh.fallah)
+[![X](https://img.shields.io/badge/@TisIFour-3b82f6?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TisIFour)
+[![Coffee](https://img.shields.io/badge/Buy_me_a_coffee-1d4ed8?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/foroogh)
 
 <br/>
 
-## ☎️ CALL NOW — OPERATORS ARE STANDING BY
-
 ```
-  ┌─────────────────────────────────────────────┐
-  │   AS SEEN ON TV · NOT AVAILABLE IN STORES   │
-  └─────────────────────────────────────────────┘
+> EOF — powered by coffee, dev tools, and one opinionated cat_
 ```
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/📺_PORTFOLIO-forough.dev-ff2e88?style=for-the-badge)](https://www.forough.dev/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-b026ff?style=for-the-badge&logo=linkedin&logoColor=0d0221)](https://linkedin.com/in/foroogh-fallahfar)
-[![Medium](https://img.shields.io/badge/MEDIUM-05d9e8?style=for-the-badge&logo=medium&logoColor=0d0221)](https://medium.com/@foroogh.fallah)
-[![X](https://img.shields.io/badge/@TisIFour-ff2e88?style=for-the-badge&logo=x&logoColor=0d0221)](https://twitter.com/TisIFour)
-[![Coffee](https://img.shields.io/badge/☕_BUY_ME_A_COFFEE-b026ff?style=for-the-badge)](https://www.buymeacoffee.com/foroogh)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-┌────────────────────────────────────────────────────────┐
-│▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░│
-│                                                        │
-│    END OF TAPE — powered by black coffee, post-punk    │
-│    basslines, and a cat who believes warm keyboards    │
-│              are a form of architecture.               │
-│                                                        │
-│              ⏪ BE KIND. PLEASE REWIND. ⏪              │
-│▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░▓▓░░│
-└────────────────────────────────────────────────────────┘
-```
-
-</div>
