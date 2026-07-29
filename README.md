@@ -74,7 +74,6 @@ Currently:
 
 - Building with **React, Next.js and TypeScript**
 - Deepening my backend skills with **Node.js** and **Python + FastAPI**
-- Studying for an MSc in Data Science
 - Sharing my keyboard with a cat who did not ask permission
 
 ## stack
