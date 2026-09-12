@@ -45,8 +45,7 @@ Directed four part-time developers. Traced a reported ~80% API failure rate to a
 **Web3 application** — Next.js · TypeScript
 Led a three-person frontend team through wallet integration, transaction state, and the surprising amount of interface that the word "pending" requires.
 
-**Modular arithmetic playground** *(side project)* — AWS Lambda · API Gateway · DynamoDB · Cognito · CloudFront
-Teaching modular arithmetic through visual, game-like mechanics. Serverless end to end, and how I keep my AWS hands dirty.
+
 
 ## stack
 
@@ -67,7 +66,6 @@ Tooling    Turborepo · Vite · Git · AI-assisted workflows
 
 ## currently
 
-- MSc in Data Science, Fenerbahçe University
 - Contracting, and open to senior frontend / full-stack roles — remote or Istanbul
 - Sharing a keyboard with a cat who did not ask permission
 
